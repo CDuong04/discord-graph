@@ -1,4 +1,4 @@
-### **📌 Discord Graph Bot**  
+### **📌 Discord Graph Bot Hack@Brown 2025**  
 A Discord bot that tracks user mentions in a designated channel and generates graph visualizations using **NetworkX, PyVis, and Matplotlib**. The bot also supports **AWS S3** for hosting interactive graphs.
 
 ---
