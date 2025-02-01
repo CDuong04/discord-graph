@@ -35,7 +35,6 @@ DISCORD_TOKEN=your_discord_bot_token
 MONGODB_URI=your_mongodb_connection_uri
 S3_BUCKET=your_aws_s3_bucket_name
 S3_REGION=your_aws_region
-LOGGING_CHANNEL_ID=your_discord_logging_channel_id
 AWS_ACCESS_KEY_ID=your_aws_access_key_id
 AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
 ```
@@ -43,7 +42,7 @@ Make sure your **AWS credentials** are set up using environment variables or `~/
 
 ### **4. Run the Bot Locally**
 ```bash
-python bot.py
+python app.py
 ```
 
 ---
