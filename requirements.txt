@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+networkx
+pymongo
+matplotlib
+pyvis
+boto3
