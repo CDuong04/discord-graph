@@ -86,7 +86,3 @@ This project is licensed under the **MIT License**.
 
 ## **📞 Contact & Support**
 If you need help, feel free to open an issue in the [GitHub repository](https://github.com/CDuong04/discord-graph) or reach out to **@CDuong04** on GitHub.
-
----
-
-This README provides **clear documentation** for your bot, making it easy for others to **install, run, and contribute**! 🚀🎨
